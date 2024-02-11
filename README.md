@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 ( this is not offical accout / I just chose this name as a fan )
+---
+- 🌱 I’m currently learning java
+- 🏫 Yonam Institute of Technology
 
 <!--
 **PDGreatSpirit/PDGreatSpirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
