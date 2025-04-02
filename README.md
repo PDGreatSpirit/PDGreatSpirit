@@ -1,8 +1,8 @@
-### Hi there 👋 ( this is not offical accout / I just chose this name as a fan )
+### Hi there 👋 
 ---
 - 🌱 I’m currently learning java
 - 🏫 Yonam Institute of Technology
-
+- ( this is not offical accout(PD대정령) / I just chose this name as a fan )
 <!--
 **PDGreatSpirit/PDGreatSpirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
